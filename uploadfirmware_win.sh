@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# to run from the command line:   ./load_firmware_win.sh firmware_filename
+# to run from the command line:   ./loadfirmware_win.sh firmware_filename
 
 # default firmware_filename is mighty_one_v6.0.0.hex
 # default port is usb
